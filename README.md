@@ -14,3 +14,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->  
+.[link do innego paragrafu].(#Nowy-paragraf)
+
+
+## Nowy paragraf
