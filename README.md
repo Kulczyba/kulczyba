@@ -18,6 +18,6 @@
     
 ![tepe xxxxx](https://nuuda.files.wordpress.com/2012/03/kapitan_bomba.jpg?w=189&h=215)
 
-to jest bardzo wazny cytat, gdyz kiedys ktos powiedzial tak
->blablablablablabla
+jak zwykła mawiać widoczny powyżej kapitan
+> "tępę xxxxx!"
 
