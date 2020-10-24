@@ -1,23 +1,23 @@
 # Hi there 👋
 ## hi here
-### hi *somewhere*
-<!--
-**Kulczyba/kulczyba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-_Here_ are some ideas to get you started:
+### hi somewhere
 
 [search](www.google.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->  
-.[link do innego paragrafu].(#Nowy-paragraf)
-
+* zadania
+ * kawa
+ * kolejna kawa
 
 ## Nowy paragraf
+
+
+1. spis 
+ * taki 
+   * siaki
+    * podsiaki
+    
+![tepe xxxxx](https://nuuda.files.wordpress.com/2012/03/kapitan_bomba.jpg?w=189&h=215)
+
+to jest bardzo wazny cytat, gdyz kiedys ktos powiedzial tak
+>blablablablablabla
+
